@@ -4,3 +4,4 @@ Considering this is the first game I ever worked on I suggest to NOT use any cod
 ## PC
 ![PC](https://i.postimg.cc/8CN6smWV/cover.png)
 The PC variant was made using Game Maker Studio 2 v2.3.0.529.
+# OTHER VARIANTS COMING SOON
