@@ -4,4 +4,7 @@ Considering this is the first game I ever made I suggest to NOT use any code fro
 ## PC
 ![PC](https://i.postimg.cc/8CN6smWV/cover.png)
 The PC version was made using Game Maker Studio 2 v2.3.0.529 using VM output.
-# OTHER VERSIONS COMING SOON
+## Android
+![Android](https://i.postimg.cc/MTL9j04m/androidprev.jpg)
+The Android version was made using Game Maker Studio 2 v2.3.0.529 using VM output, and API level 28.
+# GAMEBOY VERSION COMING SOON

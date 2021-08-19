@@ -1,0 +1,24 @@
+/// @description Changing their speed based on the score
+if(o_score.score_=50)
+{
+	speedobj_++;
+    speedbird_++;
+}
+if(o_score.score_=100){
+	speedobj_++;
+    speedbird_++;
+}
+if(o_score.score_=200){
+	speedobj_+=2;
+    speedbird_+=2;
+}
+if(o_score.score_=500)
+{
+	speedobj_+=5;
+    speedbird_+=5;
+}
+if(o_player.isdead=true)
+{
+	speedobj_=0;
+    speedbird_=0;
+}
