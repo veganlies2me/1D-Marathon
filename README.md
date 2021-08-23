@@ -7,4 +7,6 @@ The PC version was made using Game Maker Studio 2 v2.3.0.529 using VM output.
 ## Android
 ![Android](https://i.postimg.cc/MTL9j04m/androidprev.jpg)
 The Android version was made using Game Maker Studio 2 v2.3.0.529 using VM output, and API level 28.
-# GAMEBOY VERSION COMING SOON
+## Game Boy
+![Gameboy](https://i.postimg.cc/4dWhVMtt/bgb00006.png)
+The Game Boy version was made using GBDK version 4.0.4. Made for GBCompo21.
