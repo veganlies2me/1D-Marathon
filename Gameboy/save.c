@@ -1,4 +1,4 @@
-//by dear God I hope nobody gets through the same pain as me attempting to save variables
+//by dear God I hope nobody gets through the same pain as me attempting to save variables, thanks Eievui and ISSOtm
 #include <gb/gb.h>
 #include <string.h>
 #include "memcmp.c"
